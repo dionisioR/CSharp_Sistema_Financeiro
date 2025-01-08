@@ -284,7 +284,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model.Dao\Model.Dao.csproj">
-      <Project>{f5a39103-f792-4885-9e25-45b1307a87f2}</Project>
+      <Project>{75d23ad2-d044-4939-adb7-05f61d8d876d}</Project>
       <Name>Model.Dao</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model.Entity\Model.Entity.csproj">

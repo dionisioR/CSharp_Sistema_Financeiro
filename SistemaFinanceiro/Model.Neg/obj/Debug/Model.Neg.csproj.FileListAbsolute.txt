@@ -1,0 +1,7 @@
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.exe.config
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.exe
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.csproj.AssemblyReference.cache
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.exe
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.pdb

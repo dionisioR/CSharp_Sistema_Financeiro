@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\model.dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|solutionrelative:model.dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\model.dao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|solutionrelative:model.dao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexaoDb.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\ConexaoDb.cs",
+              "RelativeDocumentMoniker": "Model.Dao\\ConexaoDb.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\ConexaoDb.cs",
+              "RelativeToolTip": "Model.Dao\\ConexaoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:15:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\Program.cs",
+              "RelativeDocumentMoniker": "Model.Dao\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\Program.cs",
+              "RelativeToolTip": "Model.Dao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:13:34.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5A39103-F792-4885-9E25-45B1307A87F2}</ProjectGuid>
+    <ProjectGuid>{75D23AD2-D044-4939-ADB7-05F61D8D876D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Model.Dao</RootNamespace>
     <AssemblyName>Model.Dao</AssemblyName>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConexaoDb.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

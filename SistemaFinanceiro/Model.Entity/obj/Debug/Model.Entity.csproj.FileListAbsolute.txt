@@ -1,0 +1,7 @@
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\bin\Debug\Model.Entity.exe.config
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\bin\Debug\Model.Entity.exe
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\bin\Debug\Model.Entity.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.csproj.AssemblyReference.cache
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.exe
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Entity\obj\Debug\Model.Entity.pdb
