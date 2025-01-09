@@ -169,6 +169,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\ClienteController.cs" />
     <Compile Include="Controllers\InicioController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -249,6 +250,10 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Inicio\Index.cshtml" />
+    <Content Include="Views\Cliente\Index.cshtml" />
+    <Content Include="Views\Cliente\Create.cshtml" />
+    <Content Include="Views\Cliente\Details.cshtml" />
+    <Content Include="Views\Cliente\Lista.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -282,15 +287,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model.Dao\Model.Dao.csproj">
-      <Project>{75d23ad2-d044-4939-adb7-05f61d8d876d}</Project>
+      <Project>{6c9328b3-84b3-4d5d-b333-c6de0d584ae0}</Project>
       <Name>Model.Dao</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model.Entity\Model.Entity.csproj">
-      <Project>{2aff3b05-4375-4f4e-979c-3e5b4122d69c}</Project>
+      <Project>{286ccd2c-8019-4cf0-a120-6b4710c39c4b}</Project>
       <Name>Model.Entity</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model.Neg\Model.Neg.csproj">
-      <Project>{8db1a8b6-d27f-4e37-8370-e67004258af3}</Project>
+      <Project>{9cc71cf4-ea50-4748-aa09-062a0c48ce2f}</Project>
       <Name>Model.Neg</Name>
     </ProjectReference>
   </ItemGroup>

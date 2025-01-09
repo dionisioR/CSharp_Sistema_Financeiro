@@ -1,7 +1,11 @@
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.exe.config
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.exe
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.pdb
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.csproj.AssemblyReference.cache
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.exe
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Neg.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Dao.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Entity.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Dao.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\bin\Debug\Model.Entity.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.csproj.Up2Date
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Neg\obj\Debug\Model.Neg.pdb

@@ -69,8 +69,6 @@ F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Micr
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Microsoft.Owin.Security.OAuth.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Microsoft.Owin.Security.Twitter.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Microsoft.Web.Infrastructure.dll
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Entity.exe
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Neg.exe
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Newtonsoft.Json.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Owin.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\System.Web.Helpers.dll
@@ -82,9 +80,7 @@ F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Syst
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\System.Web.WebPages.Razor.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\WebGrease.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Entity.pdb
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Entity.exe.config
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Neg.pdb
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Neg.exe.config
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\System.Web.Helpers.xml
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\System.Web.Mvc.xml
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\System.Web.Optimization.xml
@@ -112,6 +108,7 @@ F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Micr
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\SistemaF.65ED0CCD.Up2Date
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\SistemaFinanceiro.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\SistemaFinanceiro.pdb
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Dao.exe
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Dao.pdb
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Dao.exe.config
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Dao.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Entity.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\SistemaFinanceiro\bin\Model.Neg.dll

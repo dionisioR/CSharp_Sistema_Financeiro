@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Dao {
-    internal class Program {
-        static void Main(string[] args) {
-        }
+namespace Model.Neg
+{
+    public class Class1
+    {
     }
 }

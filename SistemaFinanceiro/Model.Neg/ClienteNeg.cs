@@ -29,11 +29,28 @@ namespace Model.Neg {
                     return;
                 }
 
+
+
             }
             //end validar nome
 
+            //inicio da validação do cpf
+            string cpf = objCliente.Cpf;
+            if (cpf == null) {
+                objCliente.Estado = 50;
+                return;
+            }
+            else {
+                cpf = objCliente.Cpf.Trim();
+                verificacao = cpf.Length <= 12 && cpf.Length > 10;
+                if (!verificacao) {
+                    objCliente.Estado = 250;
+                    return;
+                }
 
+            }
 
+            //fim da validãção do cpf
 
             //begin validar endereco retorna estado=6
             string endereco = objCliente.Endereco;
@@ -60,7 +77,7 @@ namespace Model.Neg {
             }
             else {
                 telefone = objCliente.Telefone.Trim();
-                verificacao = telefone.Length <= 15 && telefone.Length > 6;
+                verificacao = telefone.Length <= 15 && telefone.Length > 7;
                 if (!verificacao) {
                     objCliente.Estado = 7;
                     return;
@@ -87,11 +104,12 @@ namespace Model.Neg {
                 objCliente.Estado = 9;
                 return;
             }
-            //end validar duplicidade cpf
+
 
             //se nao tem erro
             objCliente.Estado = 99;
-            objClienteDao.create1(objCliente);
+            //objClienteDao.create1(objCliente);
+            objClienteDao.create(objCliente);
             return;
         }
 

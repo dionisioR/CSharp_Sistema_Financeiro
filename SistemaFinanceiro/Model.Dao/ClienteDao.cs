@@ -1,6 +1,7 @@
 ﻿using Model.Entity;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -18,47 +19,56 @@ namespace Model.Dao {
             objConexaoDB = ConexaoDb.saberEstado();
         }
 
+        //public void create1(Cliente objCliente) {
+        //    string create = "insert into cliente(nome, endereco, telefone, cpf) VALUES ('" + objCliente.Nome + "', '" + objCliente.Endereco + "' , '" + objCliente.Telefone + "', '" + objCliente.Cpf + "' )";
+        //    try {
+        //        comando = new SqlCommand(create, objConexaoDB.getCon());
+        //        objConexaoDB.getCon().Open();
+        //        comando.ExecuteNonQuery();
+        //    }
+        //    catch (Exception e) {
+        //        objCliente.Estado = 1;
+
+        //    }
+        //    finally {
+        //        objConexaoDB.getCon().Close();
+        //        objConexaoDB.CloseDB();
+        //    }
+        //}
         public void create1(Cliente objCliente) {
-            string create = $"insert into cliente(nome, endereco, telefone, cpf) values ('{objCliente.Nome}','{objCliente.Endereco}','{objCliente.Telefone}','{objCliente.Cpf}')";
+            string create = "insert into cliente(nome, endereco, telefone, cpf) VALUES (@nome, @endereco, @telefone, @cpf)";
             try {
-                // cria a instância passando a query e pegando a conexao
                 comando = new SqlCommand(create, objConexaoDB.getCon());
-                // abre a conexao
+                comando.Parameters.Add("@nome", SqlDbType.VarChar).Value = objCliente.Nome;
+                comando.Parameters.Add("@endereco", SqlDbType.VarChar).Value = objCliente.Endereco;
+                comando.Parameters.Add("@telefone", SqlDbType.VarChar).Value = objCliente.Telefone;
+                comando.Parameters.Add("@cpf", SqlDbType.VarChar).Value = objCliente.Cpf;
+
                 objConexaoDB.getCon().Open();
-                // salva os dados no banco
                 comando.ExecuteNonQuery();
             }
             catch (Exception e) {
-
-                objCliente.Estado = 1;
+                objCliente.Estado = 1;  // Erro de inserção
+                Console.WriteLine($"Erro ao inserir cliente: {e.Message}");  // Exibe o erro
             }
             finally {
-                // fecha a conexao
-                objConexaoDB.getCon().Close();
-                // encerra o banco
-                objConexaoDB.CloseDB();
+                objConexaoDB.CloseDB();  // Fecha a conexão
             }
         }
 
         public void create(Cliente objCliente) {
-            // insert via procedimento (store procedure) SQL
-            string create = "sp_cliente_adc" + objCliente.Nome + ", " + objCliente.Endereco + ", " + objCliente.Telefone + ", " + objCliente.Cpf;
+            string create = "sp_cliente_adc" + objCliente.Nome + "," + objCliente.Endereco + "," + objCliente.Telefone + "," + objCliente.Cpf + "";
             try {
-                // cria a instância passando a query e pegando a conexao
                 comando = new SqlCommand(create, objConexaoDB.getCon());
-                // abre a conexao
                 objConexaoDB.getCon().Open();
-                // salva os dados no banco
                 comando.ExecuteNonQuery();
             }
             catch (Exception e) {
-
                 objCliente.Estado = 1;
+
             }
             finally {
-                // fecha a conexao
                 objConexaoDB.getCon().Close();
-                // encerra o banco
                 objConexaoDB.CloseDB();
             }
         }

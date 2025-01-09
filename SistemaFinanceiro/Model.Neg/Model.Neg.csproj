@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8DB1A8B6-D27F-4E37-8370-E67004258AF3}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{9CC71CF4-EA50-4748-AA09-062A0C48CE2F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Model.Neg</RootNamespace>
     <AssemblyName>Model.Neg</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,20 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="ClienteNeg.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Model.Dao\Model.Dao.csproj">
-      <Project>{75d23ad2-d044-4939-adb7-05f61d8d876d}</Project>
+      <Project>{6c9328b3-84b3-4d5d-b333-c6de0d584ae0}</Project>
       <Name>Model.Dao</Name>
     </ProjectReference>
     <ProjectReference Include="..\Model.Entity\Model.Entity.csproj">
-      <Project>{2aff3b05-4375-4f4e-979c-3e5b4122d69c}</Project>
+      <Project>{286ccd2c-8019-4cf0-a120-6b4710c39c4b}</Project>
       <Name>Model.Entity</Name>
     </ProjectReference>
   </ItemGroup>

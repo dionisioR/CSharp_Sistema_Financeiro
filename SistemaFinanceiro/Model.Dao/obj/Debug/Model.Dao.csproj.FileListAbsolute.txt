@@ -1,7 +1,9 @@
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.exe.config
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.exe
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.pdb
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.csproj.AssemblyReference.cache
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
-F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.exe
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Dao.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Entity.dll
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\bin\Debug\Model.Entity.pdb
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.csproj.Up2Date
+F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.dll
 F:\CSharp\CSharp_Sistema_Financeiro\SistemaFinanceiro\Model.Dao\obj\Debug\Model.Dao.pdb

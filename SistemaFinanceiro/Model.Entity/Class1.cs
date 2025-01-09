@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model.Neg {
-    internal class Program {
-        static void Main(string[] args) {
-        }
+namespace Model.Entity
+{
+    public class Class1
+    {
     }
 }
