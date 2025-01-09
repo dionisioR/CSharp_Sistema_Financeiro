@@ -9,7 +9,7 @@ namespace Model.Dao {
         void create(qualquerClasse obj);
         void delete(qualquerClasse obj);
         void update(qualquerClasse obj);
-        void find(qualquerClasse obj);
+        bool find(qualquerClasse obj);
 
         List<qualquerClasse> findAll();
     }

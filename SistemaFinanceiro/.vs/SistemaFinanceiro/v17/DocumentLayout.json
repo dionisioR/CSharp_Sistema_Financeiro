@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DB1A8B6-D27F-4E37-8370-E67004258AF3}|Model.Neg\\Model.Neg.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\model.neg\\clienteneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB1A8B6-D27F-4E37-8370-E67004258AF3}|Model.Neg\\Model.Neg.csproj|solutionrelative:model.neg\\clienteneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\model.dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|solutionrelative:model.dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AFF3B05-4375-4F4E-979C-3E5B4122D69C}|Model.Entity\\Model.Entity.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\model.entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AFF3B05-4375-4F4E-979C-3E5B4122D69C}|Model.Entity\\Model.Entity.csproj|solutionrelative:model.entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\model.dao\\obrigatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|solutionrelative:model.dao\\obrigatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\model.dao\\obrigatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|solutionrelative:model.dao\\obrigatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFF3B05-4375-4F4E-979C-3E5B4122D69C}|Model.Entity\\Model.Entity.csproj|F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\model.entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF3B05-4375-4F4E-979C-3E5B4122D69C}|Model.Entity\\Model.Entity.csproj|solutionrelative:model.entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75D23AD2-D044-4939-ADB7-05F61D8D876D}|Model.Dao\\Model.Dao.csproj|F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\model.dao\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{C256F53B-7969-4D18-9944-535C1F17173C}|SistemaFinanceiro\\SistemaFinanceiro.csproj|solutionrelative:sistemafinanceiro\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C256F53B-7969-4D18-9944-535C1F17173C}|SistemaFinanceiro\\SistemaFinanceiro.csproj|f:\\csharp\\csharp_sistema_financeiro\\sistemafinanceiro\\sistemafinanceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C256F53B-7969-4D18-9944-535C1F17173C}|SistemaFinanceiro\\SistemaFinanceiro.csproj|F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\sistemafinanceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C256F53B-7969-4D18-9944-535C1F17173C}|SistemaFinanceiro\\SistemaFinanceiro.csproj|solutionrelative:sistemafinanceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -42,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteNeg.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Neg\\ClienteNeg.cs",
+              "RelativeDocumentMoniker": "Model.Neg\\ClienteNeg.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Neg\\ClienteNeg.cs",
+              "RelativeToolTip": "Model.Neg\\ClienteNeg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:59:04.004Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -52,40 +69,40 @@
               "RelativeDocumentMoniker": "Model.Dao\\Obrigatorio.cs",
               "ToolTip": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\Obrigatorio.cs",
               "RelativeToolTip": "Model.Dao\\Obrigatorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T19:32:13.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClienteDao.cs",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\ClienteDao.cs",
               "RelativeDocumentMoniker": "Model.Dao\\ClienteDao.cs",
               "ToolTip": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\ClienteDao.cs",
               "RelativeToolTip": "Model.Dao\\ClienteDao.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAuwKgAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T19:31:18.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Entity\\Cliente.cs",
               "RelativeDocumentMoniker": "Model.Entity\\Cliente.cs",
               "ToolTip": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Entity\\Cliente.cs",
               "RelativeToolTip": "Model.Entity\\Cliente.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAuwCsAAAAxAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwCsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T19:14:14.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\SistemaFinanceiro\\Views\\Inicio\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaFinanceiro\\Views\\Inicio\\Index.cshtml",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "InicioController.cs",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\SistemaFinanceiro\\Controllers\\InicioController.cs",
               "RelativeDocumentMoniker": "SistemaFinanceiro\\Controllers\\InicioController.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\SistemaFinanceiro\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaFinanceiro\\Views\\Shared\\_Layout.cshtml",
@@ -117,12 +134,11 @@
               "RelativeToolTip": "SistemaFinanceiro\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAFsAAAAAAAAAAAAzwGYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T12:21:48.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:21:48.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\SistemaFinanceiro\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "SistemaFinanceiro\\App_Start\\RouteConfig.cs",
@@ -130,12 +146,11 @@
               "RelativeToolTip": "SistemaFinanceiro\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:16:39.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T12:16:39.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConexaoDb.cs",
               "DocumentMoniker": "F:\\CSharp\\CSharp_Sistema_Financeiro\\SistemaFinanceiro\\Model.Dao\\ConexaoDb.cs",
               "RelativeDocumentMoniker": "Model.Dao\\ConexaoDb.cs",
@@ -143,8 +158,7 @@
               "RelativeToolTip": "Model.Dao\\ConexaoDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T00:15:11.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T00:15:11.935Z"
             }
           ]
         }
